@@ -1,0 +1,15 @@
+---
+title: "Principles of Ecology"
+---
+
+Welcome to the course website for BIOL 345 Principles of Ecology at MSUM.
+
+<br />
+
+## Content
+
+- [Seminars](seminars.html)
+
+<br />
+<br />
+<br />

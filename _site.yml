@@ -1,0 +1,14 @@
+name: "BIOL 345 Principles of Ecology @ MSUM"
+output_dir: "."
+navbar:
+  title: "Principles of Ecology"
+  left:
+    - text: "Seminars"
+      href: seminars.html
+output:
+  html_document:
+    theme: flatly
+    highlight: kate
+    include:
+      after_body: footer.html
+    css: styles.css
