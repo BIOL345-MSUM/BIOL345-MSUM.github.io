@@ -8,6 +8,8 @@ Welcome to the course website for BIOL 345 Principles of Ecology at MSUM.
 
 ## Content
 
+- Labs
+    - [Data Science for Ecologists](data_science.html)
 - [Seminars](seminars.html)
 
 <br />

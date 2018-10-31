@@ -3,6 +3,10 @@ output_dir: "."
 navbar:
   title: "Principles of Ecology"
   left:
+    - text: "Labs"
+      menu:
+        - text: "Data Science for Ecologists"
+          href: data_science.html
     - text: "Seminars"
       href: seminars.html
 output:
