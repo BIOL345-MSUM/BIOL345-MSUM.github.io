@@ -1,9 +1,76 @@
 ---
-title: "Data Science for Ecologists"
+title: "Lab 9: Data Science for Ecologists"
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+## Lab activities
 
+1.	Watch the intructor's presentation
+2.	Begin working on your data science team project
+
+## Bring to lab
+
+- laptop (optional)
+
+## Skills and abilities
+
+By the end of this lab, you should be able to:
+
+- Run R in the RStudio IDE
+- Create and save RStudio Projects and R scripts
+- Write R code to perform basic tasks
+- Import a dataset into R
+- Explore and describe a dataset in R
+- Subset a dataset by row and column
+- Begin to use ggplot to visualize data
+
+## Introduction
+
+### What is data science?
+
+Data science is an interdisciplinary field about the processes and tools used to acquire knowledge and understanding from data. 
+
+Basically, data science is the fusion of a very old discipline, statistics, with a very young one, computer science. Unlike statistics, data science focuses more heavily on understanding, managing, and visualizing data. Like statistics, data science also focuses on using models to extract information from data, but expands on traditional methods of statistical inference to include such fields as machine learning and artificial intelligence. 
+
+This figure from the SAS Institute offers an idea of how various fields fit into data science:
+
+![Data science Venn diagram](images/data_science_venn_diagram.png)
+
+### R and RStudio
+
+One of the most popular platforms for doing data science is the R language and environment for statistical computing and graphics. R is open source, free, and can be downloaded and run on most operating systems. However, it is a bare bones program for anyone used to dealing with slick graphical user interfaces. That is where RStudio comes in. Technically, it is an integrated development environment (IDE) for R. You can think of it as a “wrapper” around R which lets you do all the things R does, but more easily and with a nicer user interface.
+
+Data science with R has matured rapidly over the past 5 years or so. One set of tools developed by data scientist Hadley Wickham, nicknamed the “tidyverse”, has become very popular. Wickham focuses on the four main steps in programming: 1 and 2) importing and tidying data, 3) transforming, visualizing, and modeling data to gain understanding, and 4) communicating the results to your audience.
+
+![data science explore](images/data-science.png)
+
+### Available resources
+
+There are many resources available online to help you learn how to use R and RStudio.
+
+Here are the most useful for beginning coders:
+
+- [R for Data Science](https://r4ds.had.co.nz/), by Garrett Grolemund and Hadley Wickam
+
+## Your assignment
+
+First your instructor will present a short introduction in class.
+
+You will form groups and choose one of the following research questions. In a future lab, each group will give a 15 minute presentation which answers their question. Guidelines for the presentation will be handed out next week in lab.
+
+Questions:
+
+1. How does summer NDVI in Minnesota vary by biome (broadleaf forest, coniferous forests, grassland, etc)?
+2. What is the long-term trend in NDVI at the Regional Science Center?
+3. How does NDVI vary throughout the year at Regional Science Center, and how does that change from year to year?
+4. How did NDVI vary throughout a given year at each of the points we visited on the Itasca field trip?
+5. How does summer NDVI vary from year to year along the transect we drove on the Itasca field trip?
+
+## Files
+
+You can download the following files:
+
+- [mn_ndvi_example.R](mn_ndvi_example.R)
