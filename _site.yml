@@ -5,7 +5,7 @@ navbar:
   left:
     - text: "Labs"
       menu:
-        - text: "Lab 9: Data Science"
+        - text: "Lab 10: Data Science"
           href: data_science.html
     - text: "Seminars"
       href: seminars.html
