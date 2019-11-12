@@ -59,7 +59,9 @@ Here are the most useful for beginning coders:
 
 First your instructor will present a short introduction in class.
 
-You will form groups and choose one of the following research questions. In a future lab, each group will give a 15 minute presentation which answers their question. Guidelines for the presentation will be handed out next week in lab.
+Second, you will for groups and work through Data Lab 1 on the Organismal Biology website: https://biol115l-msum.github.io
+
+Finally, you will choose one of the following research questions. In a future lab, each group will give a 15 minute presentation which answers their question. Guidelines for the presentation will be handed out next week in lab.
 
 Questions:
 
